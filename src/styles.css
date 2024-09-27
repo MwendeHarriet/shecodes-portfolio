@@ -1,6 +1,13 @@
 h1 {
     font-family: "Poppins", sans-serif;
-    font-weight: 500;
+    font-weight: Bold;
     font-style: normal;
     color: blueviolet;
+  }
+
+  p {
+    font-family: 'Playfair Dispaly', serif;
+    font-weight: medium;
+    font-style: normal;
+    color: #034242;
   }
