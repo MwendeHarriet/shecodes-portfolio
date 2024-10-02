@@ -11,3 +11,8 @@ h1 {
     font-style: normal;
     color: #034242;
   }
+
+  .icon {
+    color: blueviolet;
+    font-size: 200px;
+  }
