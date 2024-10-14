@@ -15,13 +15,12 @@
   color: #bf10cf;
   cursor: pointer;
   position: relative;
-  transition: all 0.3s ease-in-out;
+    margin-top: 15px;
 }
 
 .nav-bar li:hover {
   color: #333;
-  transform: translateY(8px);
-  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+
 }
 
 body {
@@ -32,5 +31,9 @@ body {
 }
 
 .draft-logo {
-  
+  margin-right: auto;
+  width: 4cm;
+  height: 4cm;
+  border-radius: 50%;
+
 }
