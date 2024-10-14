@@ -40,3 +40,15 @@ body {
 
 }
 
+.custom-pink {
+  background-color: #bf10cf;
+}
+
+.custom-pink:hover {
+  background-color: #f4e0e3;
+  color: #bf10cf;
+}
+
+.home-page {
+text-align: center;
+}
