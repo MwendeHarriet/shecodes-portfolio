@@ -3,7 +3,7 @@
   justify-content: right;
   display: flex;
   margin: 0;
-  width: 100vw;
+  width: 100%;
   padding: 10px;
 }
 
@@ -50,5 +50,5 @@ body {
 }
 
 .home-page {
-text-align: center;
+  text-align: center;
 }
