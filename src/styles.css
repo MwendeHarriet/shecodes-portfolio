@@ -15,7 +15,7 @@
   color: #bf10cf;
   cursor: pointer;
   position: relative;
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 .nav-bar li:hover {
@@ -28,6 +28,8 @@ body {
   padding: 0;
   box-sizing: border-box;
   background-color: #f4e0e3;
+  font-family: "Afacad Flux";
+  font-weight: 400;
 }
 
 .draft-logo {
@@ -37,3 +39,4 @@ body {
   border-radius: 50%;
 
 }
+
