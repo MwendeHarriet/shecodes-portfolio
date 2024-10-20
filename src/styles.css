@@ -64,8 +64,16 @@ body {
 section {
   background-color: #f0e0ee;
   padding: 10px;
+  text-align: center;
 }
 
 .para-button {
   justify-content: center;
+}
+
+.images {
+  max-width: 225px;
+  height: auto;
+  justify-content: center;
+  align-items: center;
 }
