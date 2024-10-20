@@ -52,3 +52,20 @@ body {
 .home-page {
   text-align: center;
 }
+
+.first-content {
+  text-align: center;
+}
+
+.paragraphs {
+  justify-content: center;
+}
+
+section {
+  background-color: #f0e0ee;
+  padding: 10px;
+}
+
+.para-button {
+  justify-content: center;
+}
