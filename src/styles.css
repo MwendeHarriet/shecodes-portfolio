@@ -161,5 +161,6 @@ li:hover {
 }
 
 .about-image {
-  
+  max-width: 350px;
+  border-radius: 10px;
 }
