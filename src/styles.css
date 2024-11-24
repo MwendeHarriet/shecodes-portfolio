@@ -164,3 +164,10 @@ li:hover {
   max-width: 350px;
   border-radius: 10px;
 }
+
+.custom-pink:focus,
+.custom-pink:active {
+  background-color: #bf10cf !important;
+  color: white !important;
+  box-shadow: none !important;
+}
