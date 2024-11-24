@@ -72,10 +72,11 @@ section {
 }
 
 .images {
-  max-width: 225px;
-  height: auto;
+  max-width: 250px;
+  height: 250px;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
 }
 
 a {
@@ -161,8 +162,10 @@ li:hover {
 }
 
 .about-image {
-  max-width: 350px;
+  max-width: 300px;
   border-radius: 10px;
+ height: 300px ;
+ 
 }
 
 .custom-pink:focus,
@@ -170,4 +173,8 @@ li:hover {
   background-color: #bf10cf !important;
   color: white !important;
   box-shadow: none !important;
+}
+
+.about-images {
+  max-width: 275px;
 }
